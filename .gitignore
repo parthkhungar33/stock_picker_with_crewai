@@ -1,0 +1,13 @@
+.env
+__pycache__/
+.DS_Store
+
+# Virtual environment
+.venv/
+
+# CrewAI local memory / storage
+memory/
+db/
+*.db
+*.sqlite
+*.sqlite3
