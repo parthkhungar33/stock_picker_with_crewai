@@ -1,4 +1,4 @@
-User name is John Doe.
-User is an AI Engineer.
-User is interested in AI Agents.
-User is based in San Francisco, California.
+User name is Parth Khungar.
+User is an AI Product Manager.
+User is interested in AI Agents & Product.
+User is based in India.
